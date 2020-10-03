@@ -8,7 +8,11 @@ int main() {
 
     //cin >> cadena; // lee hasta el espacio
     getline(cin, cadena);
-    cout << cadena.size() << endl;
+    cout << cadena.size()<< "." << endl;//tamaño de la cadena
+
+
+
+
 
     return 0;
 }
